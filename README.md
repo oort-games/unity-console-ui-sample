@@ -49,3 +49,10 @@ Input Key Display 자동 변환
 | InGame | Editor Inspector |
 | --- | --- |
 | <img src="https://github.com/user-attachments/assets/ae46598e-4053-4324-abbc-e0e16a4d1b1f" width="480" height="270"> | <img src="https://github.com/user-attachments/assets/432da03e-427d-4be4-a14a-822ddd70a7ee" width="480" height="270"> |
+
+---
+
+## 데모영상
+https://github.com/user-attachments/assets/1b049486-5a09-4cd6-9211-ae89af3a749d
+
+
