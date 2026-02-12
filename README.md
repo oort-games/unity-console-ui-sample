@@ -53,6 +53,4 @@ Input Key Display 자동 변환
 ---
 
 ## 데모영상
-https://github.com/user-attachments/assets/1b049486-5a09-4cd6-9211-ae89af3a749d
-
-
+https://github.com/user-attachments/assets/9b24620d-ccea-43b7-96a2-b435231bce4e
