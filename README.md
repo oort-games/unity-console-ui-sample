@@ -3,7 +3,8 @@
 
 
 ## 설명
-- Unity를 사용해 keyboard, gamepad, touch 모든 입력 방식에 대응하는 형식의 시스템 데모 버전 입니다. 해당 UI 디자인은 Neople의 카잔을 참고하여 제작하였습니다.
+Unity를 사용해 keyboard, gamepad, touch 모든 입력 방식에 대응하는 형식의 시스템 데모 버전 입니다.
+설정 화면만 구성해놓았으며 해당 UI 디자인은 Neople의 카잔을 참고하여 제작하였습니다.
 
 ## 구현 시스템
 - 🎮 [Input System](#input-system)
